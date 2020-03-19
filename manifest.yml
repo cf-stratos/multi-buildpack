@@ -1,5 +1,5 @@
 applications:
-  - name: cf-quick-app
+  - name: cf-multi-app
     memory: 16M
     disk_quota: 64M
     timeout: 180
